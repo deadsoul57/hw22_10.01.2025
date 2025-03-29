@@ -1,0 +1,31 @@
+html {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	color: #800000;
+	background: #F5E5D5;
+}
+
+p {
+	text-align: justify;
+}
+
+h1 {
+	color: #FF0000;
+	text-align: center;
+}
+
+h2 {
+	color: #FF0000;
+}
+
+a {
+	color: #FF0000;
+}
+
+div.photo {
+    float: left;
+    position: relative;
+    width: 27%;
+/*    padding-bottom: 27%;*/
+    margin: 15px;        
+}
